@@ -31,7 +31,7 @@ menu:
   about: /about
   archives: /archives
   tags: /tags
-  # commonweal: /blog/404.html
+  # commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -88,7 +88,7 @@ social_icons:
 
 
 # Sidebar Avatar
-avatar: /blog/images/default_avatar.jpg
+avatar: /images/default_avatar.jpg
 
 # TOC in the Sidebar
 toc:
