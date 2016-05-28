@@ -70,11 +70,11 @@ scheme: Pisces
 
 # Social links
 social:
-  GitHub: https://github.com/jovey-zheng
-  Twitter: https://twitter.com/JoveyZheng
-  Weibo: http://weibo.com/u/1633564683
-  Facebook: https://www.facebook.com/profile.php?id=100010207239121
-  JianShu: http://www.jianshu.com/users/9de90a2d9205/latest_articles
+  GitHub: https://github.com/HankCoder
+  Twitter: #https://twitter.com/JoveyZheng
+  Weibo: #http://weibo.com/u/1633564683
+  Facebook: #https://www.facebook.com/profile.php?id=100010207239121
+  JianShu: #http://www.jianshu.com/users/9de90a2d9205/latest_articles
 
 # Social Icons
 social_icons:
@@ -169,7 +169,7 @@ mathjax:
 #baidu_analytics:
 
 # Duoshuo ShortName
-duoshuo_shortname: HankCoder
+duoshuo_shortname: hankcoder
 
 # Disqus
 #disqus_shortname:
