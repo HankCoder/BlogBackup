@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://HankCoder.github.io/"/>
-  <updated>2016-11-11T06:49:13.000Z</updated>
+  <updated>2017-01-11T16:08:40.000Z</updated>
   <id>http://HankCoder.github.io/</id>
   
   <author>
@@ -16,11 +16,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>思念</title>
+    <link href="http://HankCoder.github.io/2017/01/12/%E6%80%9D%E5%BF%B5/"/>
+    <id>http://HankCoder.github.io/2017/01/12/思念/</id>
+    <published>2017-01-11T16:08:40.000Z</published>
+    <updated>2017-01-11T16:08:40.000Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>hexo test categories</title>
     <link href="http://HankCoder.github.io/2016/11/11/hexo-test-categories/"/>
     <id>http://HankCoder.github.io/2016/11/11/hexo-test-categories/</id>
     <published>2016-11-11T06:47:34.000Z</published>
-    <updated>2016-11-11T06:49:13.000Z</updated>
+    <updated>2016-11-11T06:54:06.000Z</updated>
     
     <content type="html">&lt;p&gt;#hexo test categories&lt;/p&gt;
 </content>
@@ -32,10 +48,10 @@
     
     </summary>
     
-      <category term="-test" scheme="http://HankCoder.github.io/categories/test/"/>
+      <category term="test" scheme="http://HankCoder.github.io/categories/test/"/>
     
     
-      <category term="-test" scheme="http://HankCoder.github.io/tags/test/"/>
+      <category term="test" scheme="http://HankCoder.github.io/tags/test/"/>
     
   </entry>
   
@@ -44,14 +60,20 @@
     <link href="http://HankCoder.github.io/2016/11/11/hexo-test/"/>
     <id>http://HankCoder.github.io/2016/11/11/hexo-test/</id>
     <published>2016-11-11T06:43:22.000Z</published>
-    <updated>2016-11-11T06:43:22.000Z</updated>
+    <updated>2016-11-11T07:48:21.000Z</updated>
     
-    <content type="html"></content>
+    <content type="html">&lt;h1 id=&quot;hexo-test&quot;&gt;&lt;a href=&quot;#hexo-test&quot; class=&quot;headerlink&quot; title=&quot;hexo test&quot;&gt;&lt;/a&gt;hexo test&lt;/h1&gt;</content>
     
     <summary type="html">
     
+      &lt;h1 id=&quot;hexo-test&quot;&gt;&lt;a href=&quot;#hexo-test&quot; class=&quot;headerlink&quot; title=&quot;hexo test&quot;&gt;&lt;/a&gt;hexo test&lt;/h1&gt;
+    
     </summary>
     
+      <category term="test" scheme="http://HankCoder.github.io/categories/test/"/>
+    
+    
+      <category term="test" scheme="http://HankCoder.github.io/tags/test/"/>
     
   </entry>
   
