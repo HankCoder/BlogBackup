@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://HankCoder.github.io/"/>
-  <updated>2017-01-12T16:41:24.000Z</updated>
+  <updated>2017-01-12T17:02:20.000Z</updated>
   <id>http://HankCoder.github.io/</id>
   
   <author>
@@ -16,35 +16,56 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>Chrome插件收集</title>
+    <link href="http://HankCoder.github.io/2017/01/13/Chrome%E6%8F%92%E4%BB%B6%E6%94%B6%E9%9B%86/"/>
+    <id>http://HankCoder.github.io/2017/01/13/Chrome插件收集/</id>
+    <published>2017-01-12T16:59:33.000Z</published>
+    <updated>2017-01-12T17:02:20.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;1-OneTab&quot;&gt;&lt;a href=&quot;#1-OneTab&quot; class=&quot;headerlink&quot; title=&quot;1.OneTab&quot;&gt;&lt;/a&gt;1.OneTab&lt;/h1&gt;&lt;p&gt;Chrome每个标签都是一个独立进程，耗费大量内存。OneTab扩展可以解决这个问题。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;1-OneTab&quot;&gt;&lt;a href=&quot;#1-OneTab&quot; class=&quot;headerlink&quot; title=&quot;1.OneTab&quot;&gt;&lt;/a&gt;1.OneTab&lt;/h1&gt;&lt;p&gt;Chrome每个标签都是一个独立进程，耗费大量内存。OneTab扩展可以解决这个问题。&lt;/p
+    
+    </summary>
+    
+      <category term="Chrome" scheme="http://HankCoder.github.io/categories/Chrome/"/>
+    
+    
+      <category term="chrome" scheme="http://HankCoder.github.io/tags/chrome/"/>
+    
+      <category term="插件" scheme="http://HankCoder.github.io/tags/%E6%8F%92%E4%BB%B6/"/>
+    
+      <category term="效率" scheme="http://HankCoder.github.io/tags/%E6%95%88%E7%8E%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>随手记20170113</title>
     <link href="http://HankCoder.github.io/2017/01/13/%E9%9A%8F%E6%89%8B%E8%AE%B020170113/"/>
     <id>http://HankCoder.github.io/2017/01/13/随手记20170113/</id>
-    <published>2017-01-12T16:41:54.572Z</published>
-    <updated>2017-01-12T16:41:24.000Z</updated>
+    <published>2017-01-12T16:20:46.000Z</published>
+    <updated>2017-01-12T16:43:15.000Z</updated>
     
-    <content type="html">&lt;p&gt;title: 随手记20170113&lt;br&gt;date: 2017-01-13 00:20:46&lt;br&gt;categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;我和她的故事&lt;br&gt;tags:&lt;/li&gt;
-&lt;li&gt;日记&lt;/li&gt;
-&lt;li&gt;情感&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;今天早上依旧是9：30起床，心里感觉是天气很好，不用穿太多，于是带上手机，钥匙，工牌就&lt;br&gt;出门了。下楼时还是没有没感觉，但是走到街上时就后悔了，居然在下雨，想都不用想就知道很&lt;br&gt;冷了，可一想到6楼这么高，懒的回去了，直接去上班了。本来就很冷，上班的地方离2楼大门又&lt;br&gt;很近，经常有人出入，随之带来的就是无限的冷风和寒意。果不其然，头开始晕了，自作孽不可活。&lt;br&gt;不过我还是很认真的拖到中午吃饭了，回家立马穿上你给我买的羽绒服，瞬间舒服多了。&lt;br&gt;晚上下班依旧在下雨，等我换上运动装到健身房时已经没几个人了，于是我找了一个角落的跑步机。&lt;br&gt;那台跑步机看起来被我踩的消瘦了不少，也多谢这些天有它陪我。我拿出我下载好的白夜行小说开始&lt;br&gt;看起来了。刚开始真是看得云里雾里，完全不知到在讲什么。不过看完之后感触颇深。&lt;/p&gt;
+    <content type="html">&lt;p&gt;今天早上依旧是9：30起床，心里感觉是天气很好，不用穿太多，于是带上手机，钥匙，工牌就&lt;br&gt;出门了。下楼时还是没有没感觉，但是走到街上时就后悔了，居然在下雨，想都不用想就知道很&lt;br&gt;冷了，可一想到6楼这么高，懒的回去了，直接去上班了。本来就很冷，上班的地方离2楼大门又&lt;br&gt;很近，经常有人出入，随之带来的就是无限的冷风和寒意。果不其然，头开始晕了，自作孽不可活。&lt;br&gt;不过我还是很认真的拖到中午吃饭了，回家立马穿上你给我买的羽绒服，瞬间舒服多了。&lt;br&gt;晚上下班依旧在下雨，等我换上运动装到健身房时已经没几个人了，于是我找了一个角落的跑步机。&lt;br&gt;那台跑步机看起来被我踩的消瘦了不少，也多谢这些天有它陪我。我拿出我下载好的白夜行小说开始&lt;br&gt;看起来了。刚开始真是看得云里雾里，完全不知到在讲什么。不过看完之后感触颇深。&lt;/p&gt;
 &lt;p&gt;一边是罪，一边是爱。&lt;br&gt;一边是黑，一边是白。&lt;br&gt;一边是正，一边是邪。&lt;br&gt;一边是显，一边是隐。&lt;br&gt;表面上纯洁美丽的雪穗是罪恶的，&lt;br&gt;她黑暗的童年阴影无法去除，&lt;br&gt;所以生命中没有太阳。&lt;br&gt;桐原亮司表面上是神秘而且阴暗的，&lt;br&gt;但他承受了父亲罪行的后果，&lt;br&gt;为雪穗不惜一切，他代替了太阳，&lt;br&gt;成为雪穗的亮光，她便可以在白夜中行走。&lt;br&gt;我的天空里没有太阳，总是黑夜，&lt;br&gt;但并不暗，因为有东西代替了太阳，&lt;br&gt;虽然没有太阳那样明亮，但对我来说已经足够。&lt;br&gt;凭借这份亮光，我便能把黑夜当成白天。&lt;br&gt;我从来没有太阳，所以不怕失去。&lt;br&gt;              ——东野圭吾 《白夜行》&lt;/p&gt;
 &lt;p&gt;我知道你现在已经进入梦乡了，o(∩∩)o…哈哈&lt;br&gt;你可知道在这里还有一个人在无比的渴望见你一面。&lt;br&gt;我真希望这一天能早点到来，虽然我也不知道那将&lt;br&gt;会是在什么时候？&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;title: 随手记20170113&lt;br&gt;date: 2017-01-13 00:20:46&lt;br&gt;categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;我和她的故事&lt;br&gt;tags:&lt;/li&gt;
-&lt;li&gt;日记&lt;/li&gt;
-&lt;li&gt;情感&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;今天早上依旧是
+      &lt;p&gt;今天早上依旧是9：30起床，心里感觉是天气很好，不用穿太多，于是带上手机，钥匙，工牌就&lt;br&gt;出门了。下楼时还是没有没感觉，但是走到街上时就后悔了，居然在下雨，想都不用想就知道很&lt;br&gt;冷了，可一想到6楼这么高，懒的回去了，直接去上班了。本来就很冷，上班的地方离2楼大门又&lt;
     
     </summary>
     
+      <category term="我和她的故事" scheme="http://HankCoder.github.io/categories/%E6%88%91%E5%92%8C%E5%A5%B9%E7%9A%84%E6%95%85%E4%BA%8B/"/>
+    
+    
+      <category term="日记" scheme="http://HankCoder.github.io/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="情感" scheme="http://HankCoder.github.io/tags/%E6%83%85%E6%84%9F/"/>
     
   </entry>
   
@@ -53,11 +74,11 @@
     <link href="http://HankCoder.github.io/2017/01/12/%E6%83%B3%E4%BD%A0%E4%B8%8D%E9%9C%80%E8%A6%81%E7%90%86%E7%94%B1/"/>
     <id>http://HankCoder.github.io/2017/01/12/想你不需要理由/</id>
     <published>2017-01-11T17:09:04.000Z</published>
-    <updated>2017-01-11T17:51:44.000Z</updated>
+    <updated>2017-01-12T16:54:37.000Z</updated>
     
     <content type="html">&lt;p&gt;夜虽已深，睡意全无。&lt;br&gt;想你之心，有增无减。&lt;/p&gt;
-&lt;p&gt;今天下午跟你发了一条微信，你久久未回我，我以为你回家已经忘了我的存在，&lt;br&gt;害得我整个下午和晚上都不开心。下班后也不想在工位呆，早早打卡回家了。&lt;br&gt;为了遵守你我的承诺，我很高心的换上我运动套装，带上kindle和水杯去公司健身房&lt;br&gt;跑步去了。每天这个点运动的人都很多，我去后一个闲着的跑步机都没有，你看人落难的&lt;br&gt;时候什么都欺负你。没事，那我就去做几个仰卧起坐，反正都是要锻炼腹肌的（你看，如果你在&lt;br&gt;肯定又要说成是肥膘，o(∩∩)o…哈哈）。等了半小时后终于有空闲跑步机了，我带上我&lt;br&gt;的kindle快步跑上去，带上耳机，听着“披着羊皮的狼”就开始了我的跑步。为什么是这首歌，&lt;br&gt;我想你最清楚了，虽然有很多首歌可以代替，但是我就是喜欢这首歌。我每天单曲循环，就是不换。&lt;br&gt;跑步的同时我看着三毛的散文全集。不过说实话我开始不喜欢三毛的书籍，纯粹的只是为了&lt;br&gt;感受一下你的精神世界，看看你看过的书。想让自己跟上你的步伐，你不总说我两没有交集吗？&lt;br&gt;在看了”撒哈啦的故事“之后我渐渐对三毛的作品有了好感。这一点对我从来不看文学书的人来说&lt;br&gt;还是很困难的。你看我是有多爱你，o(∩∩)o…哈哈。在看到荷西被困沙漠中，三毛差点被坏人&lt;br&gt;xx的那个章节中，彻底被他们之间的爱情所折服。我返回去又看了一遍，我感觉我一下顿悟了&lt;br&gt;不少。以前的我是多么的愚蠢，对你是多么的残忍。我现在连我自己都恨我自己。&lt;/p&gt;
-&lt;p&gt;在 22：01 的时候你跟我发语音了，你说你才学车回来。我小心翼翼的点开，耳边传来你熟悉的&lt;br&gt;声音，你不知道，我的内心是无比的喜悦。那个时候的我真的好想飞到你身边，抱一下你。&lt;br&gt;大学的时候这种机会何止千万，我却没有去珍惜。&lt;/p&gt;
+&lt;p&gt;今天下午跟你发了一条微信，你久久未回我，我以为你回家已经忘了我的存在，&lt;br&gt;害得我整个下午和晚上都不开心。下班后也不想在工位呆，早早打卡回家了。&lt;br&gt;为了遵守你我的承诺，我很高心的换上我运动套装，带上kindle和水杯去公&lt;br&gt;司健身房跑步去了。每天这个点运动的人都很多，我去后一个闲着的跑步机都&lt;br&gt;没有，你看人落难的时候什么都欺负你。没事，那我就去做几个仰卧起坐，&lt;br&gt;反正都是要锻炼腹肌的（你看，如果你在肯定又要说成是肥膘，o(∩∩)o…哈哈）。&lt;br&gt;等了半小时后终于有空闲跑步机了，我带上我的kindle快步跑上去，&lt;br&gt;带上耳机，听着“披着羊皮的狼”就开始了我的跑步。为什么是这首歌，&lt;br&gt;我想你最清楚了，虽然有很多首歌可以代替，但是我就是喜欢这首歌。&lt;br&gt;我每天单曲循环，就是不换。跑步的同时我看着三毛的散文全集。&lt;br&gt;不过说实话我开始不喜欢三毛的书籍，纯粹的只是为了感受一下你的精神世界，&lt;br&gt;看看你看过的书。想让自己跟上你的步伐，你不总说我两没有交集吗？&lt;br&gt;在看了”撒哈啦的故事“之后我渐渐对三毛的作品有了好感。这一点对我从来不&lt;br&gt;看文学书的人来说还是很困难的。你看我是有多爱你，o(∩∩)o…哈哈。&lt;br&gt;在看到荷西被困沙漠中，三毛差点被坏人xx的那个章节中，彻底被他们之间的&lt;br&gt;爱情所折服。我返回去又看了一遍，我感觉我一下顿悟了不少。以前的我是多&lt;br&gt;么的愚蠢，对你是多么的残忍。我现在连我自己都恨我自己。&lt;/p&gt;
+&lt;p&gt;在 22：01 的时候你跟我发语音了，你说你才学车回来。我小心翼翼的点开&lt;br&gt;，耳边传来你熟悉的声音，你不知道，我的内心是无比的喜悦。&lt;br&gt;那个时候的我真的好想飞到你身边，抱一下你。大学的时候这种机会何止千万，&lt;br&gt;我却没有去珍惜。&lt;/p&gt;
 &lt;p&gt;都快2点，不写了，想你，睡觉！&lt;/p&gt;
 </content>
     
