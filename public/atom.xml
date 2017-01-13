@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://HankCoder.github.io/"/>
-  <updated>2017-01-12T17:46:51.000Z</updated>
+  <updated>2017-01-13T14:49:12.000Z</updated>
   <id>http://HankCoder.github.io/</id>
   
   <author>
@@ -14,6 +14,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>随手记20170114</title>
+    <link href="http://HankCoder.github.io/2017/01/13/%E9%9A%8F%E6%89%8B%E8%AE%B020170114-md/"/>
+    <id>http://HankCoder.github.io/2017/01/13/随手记20170114-md/</id>
+    <published>2017-01-13T14:29:39.000Z</published>
+    <updated>2017-01-13T14:49:12.000Z</updated>
+    
+    <content type="html">&lt;p&gt;福州今天还是在下雨，天阴沉沉的，给人的感觉很不好，不过比起“有的地方”好多了。&lt;br&gt;今天被一个很难的bug困扰了一天，到8点下班之前还是没有解决，只能明天继续了。&lt;br&gt;虽然我是很不想周末去看代码的，o(∩∩)o…哈哈。&lt;br&gt;下班之前我看到一个不好的消息，就是公司健身房今天不能用了。意思就是我不能去锻炼&lt;br&gt;了，好伤心，我这身体只要有一天不锻炼就得反弹，那样离我答应你要求又远了，可是&lt;br&gt;我又不想去外面跑，外面好冷，不过我也没闲着，我还是出去走了几公里，算热个身，不&lt;br&gt;求减肥，只求不要增重就行。&lt;br&gt;对了，今天上班你说我现在在经历你前几个月在经历的事情，但是我说你我之间是不同的，&lt;br&gt;你问我为什么，我没有告诉你，我不想现在告诉你，不过依我本心我是很想告诉你的，只是&lt;br&gt;我想等我们下次见面时我亲自告诉你，我觉得你会感兴趣的。不过你放心我觉得这一天很&lt;br&gt;快就会到了。&lt;br&gt;以前的我思想很单纯，觉得自己每天上好班，玩好就够了，根本就没有想那么多，不过经你&lt;br&gt;这么一折腾，我的思绪开始复杂起来了，每天思考的东西开始多起来了，不过在我内心中&lt;br&gt;一直坚持的那个东西，始终没有动摇过。我虽会焦虑，但是我依然会静静的等待它的到来。&lt;/p&gt;
+&lt;p&gt;不说了我要开始看“七月与安生”了！&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;福州今天还是在下雨，天阴沉沉的，给人的感觉很不好，不过比起“有的地方”好多了。&lt;br&gt;今天被一个很难的bug困扰了一天，到8点下班之前还是没有解决，只能明天继续了。&lt;br&gt;虽然我是很不想周末去看代码的，o(∩∩)o…哈哈。&lt;br&gt;下班之前我看到一个不好的消息，就是公司健身房
+    
+    </summary>
+    
+      <category term="我和她的故事" scheme="http://HankCoder.github.io/categories/%E6%88%91%E5%92%8C%E5%A5%B9%E7%9A%84%E6%95%85%E4%BA%8B/"/>
+    
+    
+      <category term="日记" scheme="http://HankCoder.github.io/tags/%E6%97%A5%E8%AE%B0/"/>
+    
+      <category term="情感" scheme="http://HankCoder.github.io/tags/%E6%83%85%E6%84%9F/"/>
+    
+  </entry>
   
   <entry>
     <title>test_分页</title>
