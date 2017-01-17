@@ -77,7 +77,7 @@ Git基础-三种状态Git 有三种状态，你的文件可能处于其中之一
 
 Git 仓库目录是 Git 用来保存项目的元数据和对象数据库的地方。 这是 G">
 <meta property="og:image" content="http://HankCoder.github.io/images/article_img/1.png">
-<meta property="og:updated_time" content="2016-11-11T05:58:04.000Z">
+<meta property="og:updated_time" content="2017-01-17T15:37:32.000Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="使用Git管理项目-起步">
 <meta name="twitter:description" content="关于版本控制提到版本控制，那么我会想到的是SVN以及这里要说的Git。那什么是版本控制呢？版本控制是一种记录一个或若干文件内容变化，以便将来查阅特定版本修订情况的系统。
@@ -360,7 +360,7 @@ Git 仓库目录是 Git 用来保存项目的元数据和对象数据库的地�
 <p>Git 仓库目录是 Git 用来保存项目的元数据和对象数据库的地方。 这是 Git 中最重要的部分，从其它计算机克隆仓库时，拷贝的就是这里的数据。</p>
 <p>工作目录是对项目的某个版本独立提取出来的内容。 这些从 Git 仓库的压缩数据库中提取出来的文件，放在磁盘上供你使用或修改。</p>
 <p>暂存区域是一个文件，保存了下次将提交的文件列表信息，一般在 Git 仓库目录中。 有时候也被称作“索引”，不过一般说法还是叫暂存区域。<br><a id="more"></a></p>
-<p>基本的 Git 工作流程如下：<br><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">1.在工作目录中修改文件。</span><br><span class="line"></span><br><span class="line">2.暂存文件，将文件的快照放入暂存区域。</span><br><span class="line"></span><br><span class="line">3.提交更新，找到暂存区域的文件，将快照永久性存储到 Git 仓库目录。</span><br></pre></td></tr></table></figure></p>
+<p>基本的 Git 工作流程如下：<br><figure class="highlight lsl"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="number">1.</span>在工作目录中修改文件。</div><div class="line"></div><div class="line"><span class="number">2.</span>暂存文件，将文件的快照放入暂存区域。</div><div class="line"></div><div class="line"><span class="number">3.</span>提交更新，找到暂存区域的文件，将快照永久性存储到 Git 仓库目录。</div></pre></td></tr></table></figure></p>
 <p>如果 Git 目录中保存着的特定版本文件，就属于已提交状态。 如果作了修改并已放入暂存区域，就属于已暂存状态。 如果自上次取出后，作了修改但还没有放到暂存区域，就是已修改状态。</p>
 <h1 id="如何安装Git"><a href="#如何安装Git" class="headerlink" title="如何安装Git"></a>如何安装Git</h1><blockquote>
 <p><strong>Mac</strong>: brew install git</p>
@@ -368,12 +368,12 @@ Git 仓库目录是 Git 用来保存项目的元数据和对象数据库的地�
 <p><strong>Linux(Fedora)</strong> : yum install git-core</p>
 <p><strong>Windows</strong> : 下载安装 <a href="http://git-scm.com" target="_blank" rel="external">Git</a></p>
 </blockquote>
-<p>配置<br><figure class="highlight smalltalk"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="string">$ </span>git config --global user.name <span class="comment">"your name"</span></span><br></pre></td></tr></table></figure></p>
-<figure class="highlight stylus"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git config --global user<span class="selector-class">.email</span> <span class="string">"youremail@email.com"</span></span><br></pre></td></tr></table></figure>
+<p>配置<br><figure class="highlight smalltalk"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="string">$ </span>git config --global user.name <span class="comment">"your name"</span></div></pre></td></tr></table></figure></p>
+<figure class="highlight stylus"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ git config --global user<span class="selector-class">.email</span> <span class="string">"youremail@email.com"</span></div></pre></td></tr></table></figure>
 <p>使用 <code>--global</code> 可以使该命令只执行一次。</p>
-<p>你可以通过如下的命令来查看你的配置信息：<br><figure class="highlight mipsasm"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">$ git <span class="built_in">config</span> --list</span><br><span class="line"></span><br><span class="line">user.email=<span class="keyword">joveyzheng@qq.com</span><br><span class="line"></span></span><br><span class="line">user.name=<span class="keyword">joveyzheng</span><br><span class="line"></span></span><br><span class="line">color.status=auto</span><br><span class="line"></span><br><span class="line">...</span><br></pre></td></tr></table></figure></p>
-<p>你可以通过输入 <code>$ git config &lt;key&gt;</code> 来查看某一项的配置<br><figure class="highlight stylus"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ git config user<span class="selector-class">.name</span></span><br><span class="line"></span><br><span class="line">joveyzheng</span><br></pre></td></tr></table></figure></p>
-<h1 id="获取帮助"><a href="#获取帮助" class="headerlink" title="获取帮助"></a>获取帮助</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ git <span class="built_in">help</span></span><br></pre></td></tr></table></figure>
+<p>你可以通过如下的命令来查看你的配置信息：<br><figure class="highlight mipsasm"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div></pre></td><td class="code"><pre><div class="line">$ git <span class="built_in">config</span> --list</div><div class="line"></div><div class="line">user.email=<span class="keyword">joveyzheng@qq.com</span></div><div class="line"></div><div class="line">user.name=<span class="keyword">joveyzheng</span></div><div class="line"></div><div class="line">color.status=auto</div><div class="line"></div><div class="line">...</div></pre></td></tr></table></figure></p>
+<p>你可以通过输入 <code>$ git config &lt;key&gt;</code> 来查看某一项的配置<br><figure class="highlight stylus"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">$ git config user<span class="selector-class">.name</span></div><div class="line"></div><div class="line">joveyzheng</div></pre></td></tr></table></figure></p>
+<h1 id="获取帮助"><a href="#获取帮助" class="headerlink" title="获取帮助"></a>获取帮助</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ git <span class="built_in">help</span></div></pre></td></tr></table></figure>
 <p>文中多处借鉴《Git pro》，想获得更多了解推荐阅读： <a href="http://git-scm.com/book/zh/v2" target="_blank" rel="external">Git Pro</a></p>
 
       
@@ -498,7 +498,7 @@ Git 仓库目录是 Git 用来保存项目的元数据和对象数据库的地�
         <nav class="site-state motion-element">
           <div class="site-state-item site-state-posts">
             <a href="/archives">
-              <span class="site-state-item-count">13</span>
+              <span class="site-state-item-count">14</span>
               <span class="site-state-item-name">日志</span>
             </a>
           </div>
